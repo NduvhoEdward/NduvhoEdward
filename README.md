@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## _Welcome!_
 
-- 🔭 I’m currently working on: Full-Stack Web Development
+- 🔭 I’m currently working on: Becoming an Information Engineer, as well as a Full-Stack Web Developer
 - 🌱 I’m currently learning: HTML, CSS and JavaScript
 - 💬 Ask me about: Atmel ASM
 - 📫 How to reach me: Nduvho.Ramashia@gmail.com
