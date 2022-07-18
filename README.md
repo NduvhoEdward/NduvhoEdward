@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## _Welcome!_
+
+- 🔭 I’m currently working on: Full-Stack Web Development
+- 🌱 I’m currently learning: HTML, CSS and JavaScript
+- 💬 Ask me about: Atmel ASM
+- 📫 How to reach me: Nduvho.Ramashia@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I would play bass guitar all day 
