@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h1 align="center">Contacts</h1>
+<h1 align="center">Contact Me On</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edwardnduvhoramashia/">
