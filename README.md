@@ -56,8 +56,8 @@ Here are some ideas to get you started:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-plain.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;  
