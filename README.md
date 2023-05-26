@@ -46,7 +46,6 @@ Here are some ideas to get you started:
   
   😄 Pronouns: He/Him
   
-  ⚡ Fun fact: I would play bass guitar all day 
 
 
 
